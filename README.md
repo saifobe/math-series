@@ -8,4 +8,4 @@
 ## .env
   Contain (.venv)
 
-  PR link : [Pull Request Link]()
+  PR link : [Pull Request Link](https://github.com/saifobe/math-series/pull/1)
